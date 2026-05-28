@@ -1,1 +1,85 @@
-{}
+{
+  "https://www.darpa.mil/news/2026/bio-attribution-challenge": {
+    "checked_at": "2026-05-28T19:44:54.465920+00:00",
+    "date": "Wed, 11 Mar 2026 16:15:53 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Translate your bio-attribution research into national security impact"
+  },
+  "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter": {
+    "checked_at": "2026-05-28T19:44:55.371758+00:00",
+    "date": "Tue, 03 Mar 2026 20:06:06 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "DARPAâs new X-76: the speed of a jet, the freedom of a helicopter"
+  },
+  "https://www.darpa.mil/news/2026/darpa-xrq-73-demonstrates-hybrid-electric-flight": {
+    "checked_at": "2026-05-28T19:44:52.999779+00:00",
+    "date": "Wed, 06 May 2026 12:29:45 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "DARPA XRQ-73 demonstrates hybrid-electric flight"
+  },
+  "https://www.darpa.mil/news/2026/qbi-stage-a-qbit": {
+    "checked_at": "2026-05-28T19:44:54.844023+00:00",
+    "date": "Wed, 04 Mar 2026 21:50:21 +0000",
+    "matched_keywords": [
+      "quantum",
+      "quantum computing",
+      "quantum computer",
+      "qubit",
+      "QBI",
+      "Quantum Benchmarking",
+      "Underexplored Systems for Utility-Scale Quantum Computing",
+      "US2QC"
+    ],
+    "sent_to_discord": true,
+    "title": "Quantum Benchmarking Initiative expands quest to separate hype from reality"
+  },
+  "https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together": {
+    "checked_at": "2026-05-28T19:44:53.520333+00:00",
+    "date": "Mon, 13 Apr 2026 16:06:54 +0000",
+    "matched_keywords": [
+      "quantum",
+      "quantum computing",
+      "qubit"
+    ],
+    "sent_to_discord": true,
+    "title": "For quantum computing, different qubits are better together"
+  },
+  "https://www.darpa.mil/news/2026/rethinking-robotics": {
+    "checked_at": "2026-05-28T19:44:53.235233+00:00",
+    "date": "Tue, 28 Apr 2026 20:21:26 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Rethinking robotics with physical intelligence"
+  },
+  "https://www.darpa.mil/news/2026/robotic-servicing-geosynchronous-satellites-technology-launch-2026": {
+    "checked_at": "2026-05-28T19:44:52.450655+00:00",
+    "date": "Tue, 19 May 2026 18:26:04 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Robotic Servicing of Geosynchronous Satellites technology to launch in 2026"
+  },
+  "https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials": {
+    "checked_at": "2026-05-28T19:44:52.855467+00:00",
+    "date": "Tue, 19 May 2026 12:16:04 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "A SMART approach to securing strategic materials"
+  },
+  "https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army": {
+    "checked_at": "2026-05-28T19:44:54.066689+00:00",
+    "date": "Thu, 19 Mar 2026 18:42:40 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "DARPA-developed autonomous helicopter technology transitions to U.S. Army"
+  },
+  "https://www.darpa.mil/news/2026/what-is-in-name-darpa-reflecting-enduring-mission-future-focus": {
+    "checked_at": "2026-05-28T19:44:52.619469+00:00",
+    "date": "Wed, 20 May 2026 16:25:45 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Whatâs in a name? At DARPA, reflecting enduring mission, future focus."
+  }
+}
