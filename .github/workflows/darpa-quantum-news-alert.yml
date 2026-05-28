@@ -1,0 +1,58 @@
+name: DARPA Quantum News Alert
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "Send a Discord test message instead of checking DARPA news"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run DARPA quantum news monitor
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.test_mode }}" = "true" ]; then
+            python monitor_darpa_quantum_news.py --test-mode
+          else
+            python monitor_darpa_quantum_news.py
+          fi
+
+      - name: Commit updated seen file
+        if: github.event_name != 'workflow_dispatch' || inputs.test_mode != 'true'
+        run: |
+          if [ -z "$(git status --porcelain -- seen_darpa_quantum_news.json)" ]; then
+            echo "No seen file changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_darpa_quantum_news.json
+          git commit -m "Update seen DARPA quantum news"
+          git push
