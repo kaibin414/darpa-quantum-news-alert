@@ -47,6 +47,13 @@
     "sent_to_discord": true,
     "title": "For quantum computing, different qubits are better together"
   },
+  "https://www.darpa.mil/news/2026/rapiidly-transitioning-shelf-stable-blood-substitutes-battlefield": {
+    "checked_at": "2026-05-29T12:28:04.573227+00:00",
+    "date": "Thu, 28 May 2026 15:14:41 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "RAPIIDly transitioning shelf-stable blood substitutes to the battlefield"
+  },
   "https://www.darpa.mil/news/2026/rethinking-robotics": {
     "checked_at": "2026-05-28T19:44:53.235233+00:00",
     "date": "Tue, 28 Apr 2026 20:21:26 +0000",
