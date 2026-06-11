@@ -89,6 +89,13 @@
     "sent_to_discord": false,
     "title": "A SMART approach to securing strategic materials"
   },
+  "https://www.darpa.mil/news/2026/threads": {
+    "checked_at": "2026-06-11T12:32:25.578650+00:00",
+    "date": "Tue, 09 Jun 2026 20:26:59 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "DARPA THREADS the needle on thermal barriers to RF power"
+  },
   "https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army": {
     "checked_at": "2026-05-28T19:44:54.066689+00:00",
     "date": "Thu, 19 Mar 2026 18:42:40 +0000",
