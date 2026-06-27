@@ -41,6 +41,15 @@
     "sent_to_discord": false,
     "title": "DARPA XRQ-73 demonstrates hybrid-electric flight"
   },
+  "https://www.darpa.mil/news/2026/mxo-spark-tank-pitch-day": {
+    "checked_at": "2026-06-27T04:03:42.541979+00:00",
+    "date": "Fri, 26 Jun 2026 12:48:05 +0000",
+    "matched_keywords": [
+      "quantum"
+    ],
+    "sent_to_discord": true,
+    "title": "Spark a connection with DARPAâs Multi X Office"
+  },
   "https://www.darpa.mil/news/2026/qbi-stage-a-qbit": {
     "checked_at": "2026-05-28T19:44:54.844023+00:00",
     "date": "Wed, 04 Mar 2026 21:50:21 +0000",
