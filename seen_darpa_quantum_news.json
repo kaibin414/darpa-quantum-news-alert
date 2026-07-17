@@ -41,6 +41,13 @@
     "sent_to_discord": false,
     "title": "DARPAâs new X-76: the speed of a jet, the freedom of a helicopter"
   },
+  "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16": {
+    "checked_at": "2026-07-17T05:35:40.914078+00:00",
+    "date": "Thu, 16 Jul 2026 13:42:00 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat"
+  },
   "https://www.darpa.mil/news/2026/darpa-xrq-73-demonstrates-hybrid-electric-flight": {
     "checked_at": "2026-05-28T19:44:52.999779+00:00",
     "date": "Wed, 06 May 2026 12:29:45 +0000",
