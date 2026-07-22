@@ -71,6 +71,13 @@
     "sent_to_discord": true,
     "title": "Spark a connection with DARPAâs Multi X Office"
   },
+  "https://www.darpa.mil/news/2026/personal-protective-gear-best-defense-good-offense": {
+    "checked_at": "2026-07-22T05:42:54.865167+00:00",
+    "date": "Mon, 20 Jul 2026 18:18:37 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "With personal protective gear, best defense is a good offense"
+  },
   "https://www.darpa.mil/news/2026/qbi-stage-a-qbit": {
     "checked_at": "2026-05-28T19:44:54.844023+00:00",
     "date": "Wed, 04 Mar 2026 21:50:21 +0000",
