@@ -160,5 +160,57 @@
     "matched_keywords": [],
     "sent_to_discord": false,
     "title": "Whatâs in a name? At DARPA, reflecting enduring mission, future focus."
+  },
+  "https://www.darpa.mil/news/features": {
+    "checked_at": "2026-07-29T18:02:45.329807+00:00",
+    "date": "",
+    "matched_keywords": [
+      "quantum",
+      "quantum sensing"
+    ],
+    "sent_to_discord": true,
+    "title": "Features"
+  },
+  "https://www.darpa.mil/news/podcast": {
+    "checked_at": "2026-07-29T18:02:46.268074+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Podcast: Voices from DARPA"
+  },
+  "https://www.darpa.mil/news/public-affairs": {
+    "checked_at": "2026-07-29T18:02:44.716865+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Learn more"
+  },
+  "https://www.darpa.mil/news/public-affairs#media": {
+    "checked_at": "2026-07-29T18:02:44.849514+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Media FAQs"
+  },
+  "https://www.darpa.mil/news/public-affairs/public-release": {
+    "checked_at": "2026-07-29T18:02:46.932047+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Public release"
+  },
+  "https://www.darpa.mil/news/resources/case-studies": {
+    "checked_at": "2026-07-29T18:02:47.667843+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Case Studies"
+  },
+  "https://www.darpa.mil/news/resources/high-res": {
+    "checked_at": "2026-07-29T18:02:47.279842+00:00",
+    "date": "",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Images Library"
   }
 }
