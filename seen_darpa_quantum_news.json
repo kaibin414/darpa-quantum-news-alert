@@ -55,6 +55,17 @@
     "sent_to_discord": false,
     "title": "DARPA XRQ-73 demonstrates hybrid-electric flight"
   },
+  "https://www.darpa.mil/news/2026/its-about-time": {
+    "checked_at": "2026-08-06T05:21:09.298396+00:00",
+    "date": "Wed, 05 Aug 2026 19:48:55 +0000",
+    "matched_keywords": [
+      "quantum",
+      "quantum sensing",
+      "precision timing"
+    ],
+    "sent_to_discord": true,
+    "title": "Itâs about time for quantum manufacturing"
+  },
   "https://www.darpa.mil/news/2026/meet-lift-challenge-teams": {
     "checked_at": "2026-07-10T06:38:22.909044+00:00",
     "date": "Wed, 08 Jul 2026 13:31:54 +0000",
