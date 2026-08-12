@@ -66,6 +66,13 @@
     "sent_to_discord": true,
     "title": "Itâs about time for quantum manufacturing"
   },
+  "https://www.darpa.mil/news/2026/lift-challenge-awards": {
+    "checked_at": "2026-08-12T04:00:28.567016+00:00",
+    "date": "Sun, 09 Aug 2026 18:16:23 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Lift Challenge results"
+  },
   "https://www.darpa.mil/news/2026/meet-lift-challenge-teams": {
     "checked_at": "2026-07-10T06:38:22.909044+00:00",
     "date": "Wed, 08 Jul 2026 13:31:54 +0000",
