@@ -41,6 +41,13 @@
     "sent_to_discord": false,
     "title": "DARPAâs new X-76: the speed of a jet, the freedom of a helicopter"
   },
+  "https://www.darpa.mil/news/2026/darpa-sprint-d2": {
+    "checked_at": "2026-09-15T05:40:19.382970+00:00",
+    "date": "Thu, 10 Sep 2026 13:16:10 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "$1M to advance AI medical documentation and decision support"
+  },
   "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16": {
     "checked_at": "2026-07-17T05:35:40.914078+00:00",
     "date": "Thu, 16 Jul 2026 13:42:00 +0000",
