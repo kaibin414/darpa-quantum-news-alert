@@ -76,6 +76,22 @@
     "sent_to_discord": false,
     "title": "DARPA XRQ-73 demonstrates hybrid-electric flight"
   },
+  "https://www.darpa.mil/news/2026/four-more-teams-enter-quantum-benchmarking-initiative-final-stage": {
+    "checked_at": "2026-10-08T08:16:46.875279+00:00",
+    "date": "Tue, 06 Oct 2026 17:48:30 +0000",
+    "matched_keywords": [
+      "quantum",
+      "quantum computing",
+      "quantum computer",
+      "qubit",
+      "QBI",
+      "Quantum Benchmarking",
+      "Underexplored Systems for Utility-Scale Quantum Computing",
+      "US2QC"
+    ],
+    "sent_to_discord": true,
+    "title": "Four more teams enter Quantum Benchmarking Initiativeâs final stage"
+  },
   "https://www.darpa.mil/news/2026/its-about-time": {
     "checked_at": "2026-08-06T05:21:09.298396+00:00",
     "date": "Wed, 05 Aug 2026 19:48:55 +0000",
