@@ -6,6 +6,13 @@
     "sent_to_discord": false,
     "title": "AI Forge: Accelerating AI breakthroughs for national security"
   },
+  "https://www.darpa.mil/news/2026/autonomous-vehicles-deliver": {
+    "checked_at": "2026-10-28T06:30:58.853409+00:00",
+    "date": "Thu, 22 Oct 2026 21:27:13 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "Autonomous vehicles deliver command-controlled robotic lethality"
+  },
   "https://www.darpa.mil/news/2026/bio-attribution-challenge": {
     "checked_at": "2026-05-28T19:44:54.465920+00:00",
     "date": "Wed, 11 Mar 2026 16:15:53 +0000",
@@ -132,6 +139,13 @@
     "matched_keywords": [],
     "sent_to_discord": false,
     "title": "With personal protective gear, best defense is a good offense"
+  },
+  "https://www.darpa.mil/news/2026/podcast-audacity-incubator-ep-98": {
+    "checked_at": "2026-10-28T06:30:58.447332+00:00",
+    "date": "Fri, 23 Oct 2026 21:07:34 +0000",
+    "matched_keywords": [],
+    "sent_to_discord": false,
+    "title": "The audacity incubator: 20 years of YFA"
   },
   "https://www.darpa.mil/news/2026/podcast-vertical-lift-challenger-ep-97": {
     "checked_at": "2026-10-02T06:32:55.663365+00:00",
